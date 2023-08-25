@@ -1,6 +1,6 @@
 # Package Information for pkg-config
 
-prefix=/home/vasanth-18085/Personal/ref-doc/Python-main/env
+prefix=/home/vasanth-18085/Personal/nhv-docs/env
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

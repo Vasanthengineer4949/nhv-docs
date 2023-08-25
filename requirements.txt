@@ -5,4 +5,3 @@ pymdown-extensions
 notebook
 ipywidgets
 IPYNBrenderer
-mkdocs-bootstrap-tables-plugin

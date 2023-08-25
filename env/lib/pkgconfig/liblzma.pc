@@ -5,10 +5,10 @@
 # You can do whatever you want with this file.
 #
 
-prefix=/home/vasanth-18085/Personal/ref-doc/Python-main/env
-exec_prefix=/home/vasanth-18085/Personal/ref-doc/Python-main/env
-libdir=/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib
-includedir=/home/vasanth-18085/Personal/ref-doc/Python-main/env/include
+prefix=/home/vasanth-18085/Personal/nhv-docs/env
+exec_prefix=/home/vasanth-18085/Personal/nhv-docs/env
+libdir=/home/vasanth-18085/Personal/nhv-docs/env/lib
+includedir=/home/vasanth-18085/Personal/nhv-docs/env/include
 
 Name: liblzma
 Description: General purpose data compression library

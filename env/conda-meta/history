@@ -1,5 +1,5 @@
-==> 2023-08-25 15:06:45 <==
-# cmd: /home/vasanth-18085/miniconda3/bin/conda create --prefix ./env python=3.9 -y
+==> 2023-08-25 15:44:34 <==
+# cmd: /home/vasanth-18085/miniconda3/condabin/conda create --prefix ./env python=3.9 -y
 # conda version: 23.5.2
 +defaults/linux-64::_libgcc_mutex-0.1-main
 +defaults/linux-64::_openmp_mutex-5.1-1_gnu

@@ -24,8 +24,8 @@ TDBC_BUILD_LIB_SPEC="-L/opt/conda/conda-bld/tk_1654088763175/work/tcl8.6.12/unix
 
 # String to pass to the linker to pick up the TDBC library from its installed
 # dir.
-tdbc_LIB_SPEC="-L/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib/tdbc1.1.3 -ltdbc1.1.3"
-TDBC_LIB_SPEC="-L/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib/tdbc1.1.3 -ltdbc1.1.3"
+tdbc_LIB_SPEC="-L/home/vasanth-18085/Personal/nhv-docs/env/lib/tdbc1.1.3 -ltdbc1.1.3"
+TDBC_LIB_SPEC="-L/home/vasanth-18085/Personal/nhv-docs/env/lib/tdbc1.1.3 -ltdbc1.1.3"
 
 # Name of the TBDC stub library
 tdbc_STUB_LIB_FILE="libtdbcstub1.1.3.a"
@@ -38,16 +38,16 @@ TDBC_BUILD_STUB_LIB_SPEC="-L/opt/conda/conda-bld/tk_1654088763175/work/tcl8.6.12
 
 # String to pass to the linker to pick up the TDBC stub library from its
 # installed directory
-tdbc_STUB_LIB_SPEC="-L/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib/tdbc1.1.3 -ltdbcstub1.1.3"
-TDBC_STUB_LIB_SPEC="-L/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib/tdbc1.1.3 -ltdbcstub1.1.3"
+tdbc_STUB_LIB_SPEC="-L/home/vasanth-18085/Personal/nhv-docs/env/lib/tdbc1.1.3 -ltdbcstub1.1.3"
+TDBC_STUB_LIB_SPEC="-L/home/vasanth-18085/Personal/nhv-docs/env/lib/tdbc1.1.3 -ltdbcstub1.1.3"
 
 # Path name of the TDBC stub library in its build directory
 tdbc_BUILD_STUB_LIB_PATH="/opt/conda/conda-bld/tk_1654088763175/work/tcl8.6.12/unix/pkgs/tdbc1.1.3/libtdbcstub1.1.3.a"
 TDBC_BUILD_STUB_LIB_PATH="/opt/conda/conda-bld/tk_1654088763175/work/tcl8.6.12/unix/pkgs/tdbc1.1.3/libtdbcstub1.1.3.a"
 
 # Path name of the TDBC stub library in its installed directory
-tdbc_STUB_LIB_PATH="/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib/tdbc1.1.3/libtdbcstub1.1.3.a"
-TDBC_STUB_LIB_PATH="/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib/tdbc1.1.3/libtdbcstub1.1.3.a"
+tdbc_STUB_LIB_PATH="/home/vasanth-18085/Personal/nhv-docs/env/lib/tdbc1.1.3/libtdbcstub1.1.3.a"
+TDBC_STUB_LIB_PATH="/home/vasanth-18085/Personal/nhv-docs/env/lib/tdbc1.1.3/libtdbcstub1.1.3.a"
 
 # Location of the top-level source directories from which TDBC was built.
 # This is the directory that contains doc/, generic/ and so on.  If TDBC
@@ -59,8 +59,8 @@ TDBC_SRC_DIR="/opt/conda/conda-bld/tk_1654088763175/work/tcl8.6.12/pkgs/tdbc1.1.
 
 # String to pass to the compiler so that an extension can find installed TDBC
 # headers
-tdbc_INCLUDE_SPEC="-I/home/vasanth-18085/Personal/ref-doc/Python-main/env/include"
-TDBC_INCLUDE_SPEC="-I/home/vasanth-18085/Personal/ref-doc/Python-main/env/include"
+tdbc_INCLUDE_SPEC="-I/home/vasanth-18085/Personal/nhv-docs/env/include"
+TDBC_INCLUDE_SPEC="-I/home/vasanth-18085/Personal/nhv-docs/env/include"
 
 # String to pass to the compiler so that an extension can find TDBC headers
 # in the source directory
@@ -68,8 +68,8 @@ tdbc_BUILD_INCLUDE_SPEC="-I/opt/conda/conda-bld/tk_1654088763175/work/tcl8.6.12/
 TDBC_BUILD_INCLUDE_SPEC="-I/opt/conda/conda-bld/tk_1654088763175/work/tcl8.6.12/pkgs/tdbc1.1.3/generic"
 
 # Path name where .tcl files in the tdbc package appear at run time.
-tdbc_LIBRARY_PATH="/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib/tdbc1.1.3"
-TDBC_LIBRARY_PATH="/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib/tdbc1.1.3"
+tdbc_LIBRARY_PATH="/home/vasanth-18085/Personal/nhv-docs/env/lib/tdbc1.1.3"
+TDBC_LIBRARY_PATH="/home/vasanth-18085/Personal/nhv-docs/env/lib/tdbc1.1.3"
 
 # Path name where .tcl files in the tdbc package appear at build time.
 tdbc_BUILD_LIBRARY_PATH="/opt/conda/conda-bld/tk_1654088763175/work/tcl8.6.12/pkgs/tdbc1.1.3/library"

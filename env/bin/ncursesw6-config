@@ -36,7 +36,7 @@ LANGUAGE=C;	export LANGUAGE
 LC_ALL=C;	export LC_ALL
 LC_CTYPE=C;	export LC_CTYPE
 
-prefix="/home/vasanth-18085/Personal/ref-doc/Python-main/env"
+prefix="/home/vasanth-18085/Personal/nhv-docs/env"
 exec_prefix="${prefix}"
 
 bindir="${exec_prefix}/bin"
@@ -101,7 +101,7 @@ fi
 # There is no portable way to find the list of standard library directories.
 # Require a POSIX shell anyway, to keep this simple.
 lib_flags=
-for opt in -L$libdir -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib -Wl,-rpath-link,/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib -L/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib  $LIBS
+for opt in -L$libdir -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/home/vasanth-18085/Personal/nhv-docs/env/lib -Wl,-rpath-link,/home/vasanth-18085/Personal/nhv-docs/env/lib -L/home/vasanth-18085/Personal/nhv-docs/env/lib  $LIBS
 do
 	case $opt in
 	-specs*) # ignore linker specs-files which were used to build library
@@ -280,10 +280,10 @@ ENDECHO
 		echo "${mandir}"
 		;;
 	--terminfo)
-		echo "/home/vasanth-18085/Personal/ref-doc/Python-main/env/share/terminfo"
+		echo "/home/vasanth-18085/Personal/nhv-docs/env/share/terminfo"
 		;;
 	--terminfo-dirs)
-		echo "/home/vasanth-18085/Personal/ref-doc/Python-main/env/share/terminfo"
+		echo "/home/vasanth-18085/Personal/nhv-docs/env/share/terminfo"
 		;;
 	--termpath)
 		echo "/etc/termcap:/usr/share/misc/termcap"

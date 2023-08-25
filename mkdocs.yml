@@ -91,7 +91,6 @@ plugins:
   - mkdocs-jupyter:
       include: ["*.ipynb"]
       include_source: True
-  - bootstrap-tables
 
 copyright: |
   &copy; 2023 <a href="https://github.com/Vasanthengineer4949"  target="_blank" rel="noopener">Vasanth</a>
