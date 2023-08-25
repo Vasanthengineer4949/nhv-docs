@@ -1,1 +1,8 @@
 mkdocs-material
+mkdocs-jupyter
+mkdocs-material-extensions
+pymdown-extensions
+notebook
+ipywidgets
+IPYNBrenderer
+mkdocs-bootstrap-tables-plugin

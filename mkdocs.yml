@@ -1,1 +1,97 @@
-site_name: NHV Docs
+# Project information
+site_name: NHV Channel Docs
+# defeine TOC or order of website-
+nav:
+  - Home: index.md
+  - NLP Projects: nlpprojs.md
+  # - Introduction to Python: noteboooks/000-intro-to-python/notes.md
+  - NLP Research Papers: nlpresearchpapers.md
+  - LLMs Related: llmsrelated.md
+  - ML Bootcamp: mlbootcamp.md
+  - Transformer Embeddings: embeddings.md
+  - Dummy: notebooks/notes.ipynb
+
+site_author: Vasanth P
+site_description: >-
+  NHV Channel Documents
+
+# Repository
+repo_name: Vasanthengineer4949/nhv-docs
+repo_url: https://github.com/Vasanthengineer4949/nhv-docs
+
+# Configuration
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    # - navigation.sections
+    # - toc.integrate
+    - navigation.top
+    - navigation.path
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: red
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: red
+      accent: lime    
+  # logo: PyTorch_logo_icon.svg
+  
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@NeuralHackswithVasanth
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/vasanthengineer4949/
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Vasanthengineer4949
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/vasanthengineer4949/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Vasanth494949
+
+
+
+
+extra_javascript:
+  - javascripts/mathjax.js
+  # - javascripts/tawk.js
+  - https://polyfill.io/v3/polyfill.min.js #?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - pymdownx.pathconverter:
+      base_path: 'Python'
+      relative_path: ''
+      absolute: true
+      tags: 'a script img link object embed'
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
+  - mkdocs-jupyter:
+      include: ["*.ipynb"]
+      include_source: True
+  - bootstrap-tables
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/Vasanthengineer4949"  target="_blank" rel="noopener">Vasanth</a>

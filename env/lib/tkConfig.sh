@@ -36,11 +36,11 @@ TK_LIBS='-lX11   -lpthread -ldl -lz  -lpthread -lm'
 
 # Top-level directory in which Tk's platform-independent files are
 # installed.
-TK_PREFIX='/home/vasanth-18085/Personal/nhv-docs/env'
+TK_PREFIX='/home/vasanth-18085/Personal/ref-doc/Python-main/env'
 
 # Top-level directory in which Tk's platform-specific files (e.g.
 # executables) are installed.
-TK_EXEC_PREFIX='/home/vasanth-18085/Personal/nhv-docs/env'
+TK_EXEC_PREFIX='/home/vasanth-18085/Personal/ref-doc/Python-main/env'
 
 # -I switch(es) to use to make all of the X11 include files accessible:
 TK_XINCLUDES=''
@@ -57,11 +57,11 @@ TK_BUILD_LIB_SPEC='-L/opt/conda/conda-bld/tk_1654088763175/work/tk8.6.12/unix -l
 
 # String to pass to linker to pick up the Tk library from its
 # installed directory.
-TK_LIB_SPEC='-L/home/vasanth-18085/Personal/nhv-docs/env/lib -ltk8.6'
+TK_LIB_SPEC='-L/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib -ltk8.6'
 
 # String to pass to the compiler so that an extension can
 # find installed Tk headers.
-TK_INCLUDE_SPEC='-I/home/vasanth-18085/Personal/nhv-docs/env/include'
+TK_INCLUDE_SPEC='-I/home/vasanth-18085/Personal/ref-doc/Python-main/env/include'
 
 # Location of the top-level source directory from which Tk was built.
 # This is the directory that contains a README file as well as
@@ -88,10 +88,10 @@ TK_BUILD_STUB_LIB_SPEC='-L/opt/conda/conda-bld/tk_1654088763175/work/tk8.6.12/un
 
 # String to pass to linker to pick up the Tk stub library from its
 # installed directory.
-TK_STUB_LIB_SPEC='-L/home/vasanth-18085/Personal/nhv-docs/env/lib -ltkstub8.6'
+TK_STUB_LIB_SPEC='-L/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib -ltkstub8.6'
 
 # Path to the Tk stub library in the build directory.
 TK_BUILD_STUB_LIB_PATH='/opt/conda/conda-bld/tk_1654088763175/work/tk8.6.12/unix/libtkstub8.6.a'
 
 # Path to the Tk stub library in the install directory.
-TK_STUB_LIB_PATH='/home/vasanth-18085/Personal/nhv-docs/env/lib/libtkstub8.6.a'
+TK_STUB_LIB_PATH='/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib/libtkstub8.6.a'

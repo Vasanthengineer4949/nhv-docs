@@ -1,4 +1,4 @@
-prefix=/home/vasanth-18085/Personal/nhv-docs/env
+prefix=/home/vasanth-18085/Personal/ref-doc/Python-main/env
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

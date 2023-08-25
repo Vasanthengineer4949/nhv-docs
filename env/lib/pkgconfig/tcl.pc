@@ -1,8 +1,8 @@
 # tcl pkg-config source file
 
-prefix=/home/vasanth-18085/Personal/nhv-docs/env
-exec_prefix=/home/vasanth-18085/Personal/nhv-docs/env
-libdir=/home/vasanth-18085/Personal/nhv-docs/env/lib
+prefix=/home/vasanth-18085/Personal/ref-doc/Python-main/env
+exec_prefix=/home/vasanth-18085/Personal/ref-doc/Python-main/env
+libdir=/home/vasanth-18085/Personal/ref-doc/Python-main/env/lib
 includedir=${prefix}/include
 
 Name: Tool Command Language

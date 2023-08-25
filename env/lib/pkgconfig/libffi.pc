@@ -1,8 +1,8 @@
-prefix=/home/vasanth-18085/Personal/nhv-docs/env
+prefix=/home/vasanth-18085/Personal/ref-doc/Python-main/env
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 toolexeclibdir=${libdir}
-includedir=/home/vasanth-18085/Personal/nhv-docs/env/include
+includedir=/home/vasanth-18085/Personal/ref-doc/Python-main/env/include
 
 Name: libffi
 Description: Library supporting Foreign Function Interfaces
