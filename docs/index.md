@@ -64,7 +64,7 @@ Following are the videos available in the playlists right now
 - **Chatbot** using FlanT5 and LoRA
 - **Text Classifier** using DistilBERT
 - **AI In Cricket-1 ->** Cricket Post Match Report Generation using Live Commentary
-- **NER** using BERT
+- **Keyword Extraction** using BERT(NER)
 
 > Playlist Page Link: [Playlist Page](nlpprojs.md){ .md-button }
 

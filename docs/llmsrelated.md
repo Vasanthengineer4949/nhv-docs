@@ -46,7 +46,7 @@ Here are the videos available in the playlist
 🌟 Whether you're new to programming or a tech enthusiast, this video simplifies the process of creating interactive chatbots. With easy-to-follow steps, you'll be able to craft your own chatbot that suits your needs. Ready to get started? Hit play and begin your journey into chatbot creation! 🤖🚀
 
 
-<iframe width="630" height="330" src="https://www.youtube.com/embed/q_BvQyusEjU?si=knR50gD_LPZzB3WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="630" height="330" src="https://www.youtube.com/embed/JYT1YDfALiw?si=Jc3jrcYfIoqSXkyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > Resources: [To do](res/llmsrelated/002-deloy-local-llm/todo.txt){ .md-button }
 
