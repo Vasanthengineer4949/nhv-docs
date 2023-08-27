@@ -48,7 +48,7 @@ Following are the videos available in the playlists right now
 - **Finetune Llama2** under 50 lines in Google Colab using QLoRA
 - **Deploy Local LLM** Like a ChatGPT Chatbot
 - **DPO** Paper Implementation
-- **IDEFICS** Image Captioner
+- **IDEFICS** Image Captioner - Next Video
 > Playlist Page Link: [Playlist Page](llmsrelated.md){ .md-button }
 
 ---
