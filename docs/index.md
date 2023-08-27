@@ -1,205 +1,115 @@
-# Welcome to Python course by Sunny
+# Welcome to Neural Hacks with Vasanth
 
-Watch Complete YouTube playlist here -
+Here is what you can expect from the channel
 
-<iframe width="630" height="330" src="https://www.youtube.com/embed/videoseries?list=PLrdaCCBhU_hnxIzB7EJlY-pfYOMGRycAK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="630" height="330" src="https://www.youtube.com/embed/gEZTjfoBW0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Subscribe to my channel](https://www.youtube.com/@c17hawke){ .md-button .md-button--primary }
+[Subscribe to my channel](https://www.youtube.com/@NeuralHackswithVasanth){ .md-button .md-button--primary }
 
 
-Following is the outline of the course with respective videos and notes- 
+## Playlists Available right now
+Currently there are five playlists in Channel. They are:
 
-## Introduction
+|Playlist|Number of Videos|Status|
+|--------|----------------|------|
+|NLP Research Papers|4|Ongoing|
+|LLMs Related|4|Ongoing|
+|NLP Projectsv|4|Ongoing|
+|ML Bootcamp|7|Completed|
+|Transformer Embeddings|3|Completed|
 
-### Start thinking in Python -
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o1qWUdBeYoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## Installation
+### NLP Research Papers
 
-[Detailed installation video](https://youtu.be/bVM-QujJ0AI)
+📚🔬 Elevate your NLP knowledge with our Research Papers Demystified playlist! 🧠📝 Uncover the secrets behind the most impactful and trending papers in the field of Natural Language Processing
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bVM-QujJ0AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLrzE9U41BOPCPXiwm_EE935SE3dh1P2tE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
----
+Following are the videos available in the playlists right now
 
-## Introduction to Python
+- **LoRA** Paper Explanation and Implementation
+- **DPO** Paper Explanation and Implementation
+- **Platypus** Paper Explanation and Implementation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0-tr-RNDpn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
-
-- What is programming language?
-- What is Python?
-- Why Python?
-- What can we do with Python?
-- Drawback of Python?
-
-> notes: [Introduction to Python notes](https://c17hawke.github.io/Python/noteboooks/000-intro-to-python/python_notes_updated.pdf){ .md-button }
+> Playlist Page Link: [Playlist Page](nlpresearchpapers.md){ .md-button }
 
 ---
 
-## Getting Started
+### LLMs Related
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2wh3RJLQrn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+🔥 Unleash the Power of Language Models! 💬✨ Dive into the world of cutting-edge AI with our Trending Concepts in LLMs Related playlist! 
 
-- Hello world!
-- Comments in python
-- Errors / Exception in python
-  - The difference between Error and Exception with examples
-    - Error
-    - Exception
-- Explore about the above error messages in chatGPT or Bing Chat
+<iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLrzE9U41BOPC8C_dWjgVgjmhb4J1GiUIZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> notes - [Getting started notes](https://c17hawke.github.io/Python/noteboooks/001-getting-started/notes/){ .md-button }
+Following are the videos available in the playlists right now
 
----
-
-## Variables
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uiMIxUvYYpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-- Define a Variable
-- Rules for defining the variables in Python
-- Conventions for defining the variables in Python
-- Features for defining the variables in Python
-- More real world examples
-
-> notes - [Variable notes](https://c17hawke.github.io/Python/noteboooks/002-variables-in-python/notes/){ .md-button }
+- **Finetune Llama2** under 50 lines in Google Colab using QLoRA
+- **Deploy Local LLM** Like a ChatGPT Chatbot
+- **DPO** Paper Implementation
+- **IDEFICS** Image Captioner
+> Playlist Page Link: [Playlist Page](llmsrelated.md){ .md-button }
 
 ---
 
-## Data Types
+### NLP Projects
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AXPlI0geu2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+🚀📊 Unleash the NLP Powerhouse: Transformers in Action! 🤖🔮 Ready to dive into the world of End-to-End NLP Projects? Welcome to the ultimate playlist that covers every conceivable task, every magic moment, and every mind-boggling application achievable with Transformers in the realm of Natural Language Processing. 🌐✨
 
-- Introduction to data types?
-- Real-life example from school days
-- Real-life example from Amazon E-commerce website
-- Hands-on using Python for the above examples 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLrzE9U41BOPAZwfa9HiT51UNUHAJmh6lA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> notes - [Data Types notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/notes/){ .md-button } | [Data Types Hand written notes](https://c17hawke.github.io/Python/noteboooks/003-data-types/python_notes_data_types.pdf){ .md-button }
+Following are the videos available in the playlists right now
 
----
+- **Chatbot** using FlanT5 and LoRA
+- **Text Classifier** using DistilBERT
+- **AI In Cricket-1 ->** Cricket Post Match Report Generation using Live Commentary
+- **NER** using BERT
 
-## User input, data type casting and conversions
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kbI6HX4tn2o?si=wx_h9uVhvho5pDVp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-- user-input: Python's inbuilt input method?
-- Why we need type conversions
-- Implicit type conversions aka Data type conversions
-- Explicit type conversions aka Data type casting
-
-> notes - [Data Types notes](https://c17hawke.github.io/Python/noteboooks/004-type-conversions-user-input/notes/){ .md-button }
+> Playlist Page Link: [Playlist Page](nlpprojs.md){ .md-button }
 
 ---
 
-## Numbers
+### ML Bootcamp
 
+🚀📊 Launch Your Machine Learning Journey: The Ultimate Beginner's Bootcamp! 🌟🔍 Ready to unravel the mysteries of Machine Learning project lifecycle? Welcome to the ML Expedition Bootcamp, a step-by-step guide to mastering every phase from Data Collection to Model Inferencing. 📈🔮
 
-## Strings
+<iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLrzE9U41BOPCifLLV67xU0cn37DaU4b_Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- Python Strings
-- Slicing Strings
-- Modify Strings
-- Concatenate Strings
-- Format Strings
-- Escape Characters
-- String Methods
-- String Exercises
-- String Formatting
+Following are the videos available in the playlists:
 
-## Booleans
+- Introduction to ML Lifecycle
+- EDA and its Importance
+- Handling Missing Values
+- Handling Categorical Values and Outliers
+- Feature Scaling and Transformations
+- Feature Selection, Train Test Split and Model Creation
+- Model Hyperparameter Tuning
 
-## Operators
+> Playlist Page Link: [Playlist Page](mlbootcamp.md){ .md-button }
 
-## User Input
+---
 
-## Lists
+### Transformer Embeddings
 
-- Python Lists
-- Access List Items
-- Change List Items
-- Add List Items
-- Remove List Items
-- Loop Lists
-- List Comprehension
-- Sort Lists
-- Copy Lists
-- Join Lists
-- List Methods
-- List Exercises
+🔍📚 Dive into the World of Textual Representations: The Sentence Transformer Embeddings Exploration! 🌐✨
 
-## Tuples
+Welcome to a journey of understanding the essence of representations! In this captivating playlist, we delve deep into the transformative magic of Sentence Transformers and their remarkable embeddings. 🚀🔮
 
-- Python Tuples
-- Access Tuples
-- Update Tuples
-- Unpack Tuples
-- Loop Tuples
-- Join Tuples
-- Tuple Methods
-- Tuple Exercises
+<iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLrzE9U41BOPAgZw7k8-iVGvKMIKLIC-Ky" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Sets
+Following are the videos available in the playlist
 
-- Python Sets
-- Access Set Items
-- Add Set Items
-- Remove Set Items
-- Loop Sets
-- Join Sets
-- Set Methods
-- Set Exercises
+- **Generating Embeddings** from Sentence Transformers
+- **Reducing Dimension** of Embeddings using UMAP
+- **Visualization** of Embeddings
 
-## Dictionaries
+> Playlist Page Link: [Playlist Page](embeddings.md){ .md-button }
 
-- Python Dictionaries
-- Access Items
-- Change Items
-- Add Items
-- Remove Items
-- Loop Dictionaries
-- Copy Dictionaries
-- Nested Dictionaries
-- Dictionary Methods
-- Dictionary Exercise
+---
 
-## Conditional Statements
+## More Updates
 
-## While Loops
+🔮✨ Get Ready for More Surprises! 🎉🎬 Stay Tuned for the Unveiling of Our Next Thrilling Playlists! 🚀🌟 
 
-## For Loops
-
-## Functions
-
-## Lambda
-
-## Arrays
-
-## OOPs
-
-## Scope
-
-## Modules
-
-## Dates
-
-## Math
-
-## JSON
-
-## RegEx
-
-## PIP - package manager
-
-## Exception handling
-
-## File Handling / IO
-
-- File Handling
-- Read Files
-- Write/Create Files
-- Delete Files
+Stay connected, keep your curiosity alive, and watch this space for the big reveals. Whether you're a tech enthusiast, an AI explorer, or simply hungry for knowledge, our future playlists are tailored to surprise and inspire you. 🎈🤓

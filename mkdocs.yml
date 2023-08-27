@@ -4,12 +4,10 @@ site_name: NHV Channel Docs
 nav:
   - Home: index.md
   - NLP Projects: nlpprojs.md
-  # - Introduction to Python: noteboooks/000-intro-to-python/notes.md
   - NLP Research Papers: nlpresearchpapers.md
   - LLMs Related: llmsrelated.md
   - ML Bootcamp: mlbootcamp.md
   - Transformer Embeddings: embeddings.md
-  - Dummy: notebooks/notes.ipynb
 
 site_author: Vasanth P
 site_description: >-
@@ -22,6 +20,7 @@ repo_url: https://github.com/Vasanthengineer4949/nhv-docs
 # Configuration
 theme:
   name: material
+  logo: img/logo.png
   features:
     - navigation.tabs
     # - navigation.sections
@@ -79,7 +78,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - pymdownx.pathconverter:
-      base_path: 'Python'
+      base_path: ''
       relative_path: ''
       absolute: true
       tags: 'a script img link object embed'

@@ -1,24 +1,14 @@
-==> 2023-08-25 15:44:34 <==
-# cmd: /home/vasanth-18085/miniconda3/condabin/conda create --prefix ./env python=3.9 -y
-# conda version: 23.5.2
-+defaults/linux-64::_libgcc_mutex-0.1-main
-+defaults/linux-64::_openmp_mutex-5.1-1_gnu
-+defaults/linux-64::ca-certificates-2023.05.30-h06a4308_0
-+defaults/linux-64::ld_impl_linux-64-2.38-h1181459_1
-+defaults/linux-64::libffi-3.4.4-h6a678d5_0
-+defaults/linux-64::libgcc-ng-11.2.0-h1234567_1
-+defaults/linux-64::libgomp-11.2.0-h1234567_1
-+defaults/linux-64::libstdcxx-ng-11.2.0-h1234567_1
-+defaults/linux-64::ncurses-6.4-h6a678d5_0
-+defaults/linux-64::openssl-3.0.10-h7f8727e_2
-+defaults/linux-64::pip-23.2.1-py39h06a4308_0
-+defaults/linux-64::python-3.9.17-h955ad1f_0
-+defaults/linux-64::readline-8.2-h5eee18b_0
-+defaults/linux-64::setuptools-68.0.0-py39h06a4308_0
-+defaults/linux-64::sqlite-3.41.2-h5eee18b_0
-+defaults/linux-64::tk-8.6.12-h1ccaba5_0
-+defaults/linux-64::wheel-0.38.4-py39h06a4308_0
-+defaults/linux-64::xz-5.4.2-h5eee18b_0
-+defaults/linux-64::zlib-1.2.13-h5eee18b_0
+==> 2023-08-27 08:41:22 <==
+# cmd: C:\Users\vasan\anaconda3\Scripts\conda-script.py create --prefix ./env python=3.9 -y
+# conda version: 23.3.1
 +defaults/noarch::tzdata-2023c-h04d1e81_0
++defaults/win-64::ca-certificates-2023.05.30-haa95532_0
++defaults/win-64::openssl-3.0.10-h2bbff1b_2
++defaults/win-64::pip-23.2.1-py39haa95532_0
++defaults/win-64::python-3.9.17-h1aa4202_0
++defaults/win-64::setuptools-68.0.0-py39haa95532_0
++defaults/win-64::sqlite-3.41.2-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wheel-0.38.4-py39haa95532_0
 # update specs: ['python=3.9']
