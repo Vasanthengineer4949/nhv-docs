@@ -12,6 +12,7 @@ Here are the videos available in the playlist
 |Finetune Llama2 using QLoRA|[Link](https://youtu.be/DiV2HmUNhRw?si=lyQITg-GNI07OSJu)|
 |Deploy Local LLM like a ChatGPT Chatbot|[Link](https://youtu.be/JYT1YDfALiw?si=KBhdsrlXsY33Uv27)|
 |DPO Implementation|[Link](https://youtu.be/P1ji_HlNQ-s?si=rFhEgRE3Rtf-gVb6)|
+|Idefics Image Captioner|[Link](https://youtu.be/ZiMVfr-rQDI)
 
 ---
 ## 1. Finetune Llama2 using QLoRA
@@ -76,4 +77,19 @@ Here are the videos available in the playlist
 ---
 ## 4. IDEFICS - Image Captioning
 
-Upcoming Soon!!!
+🔥 Brace yourselves for a mind-bending journey into the future of AI! Join us in this captivating video as we dive deep into the groundbreaking State-of-The-Art multimodal model - IDEFICS. 🌌
+
+What if I told you that there's an open-access gem that rivals Google Deepmind's closely guarded Flamingo model? Enter IDEFICS, a cutting-edge creation from HuggingFace that's set to redefine the AI landscape. 🚀
+
+From Image Question Answering to Image Captioning and beyond, the possibilities of IDEFICS are limitless. Curious about how to fine-tune this incredible model for image captioning on the MSCOCO dataset? We've got you covered, all within the free Google Colab platform. 📸✨
+
+But wait, there's more! We're not stopping at image captioning. Witness firsthand how the versatile IDEFICS can seamlessly adapt to diverse use cases involving both text and images. 📚🖼️
+
+Here's the million-dollar question: Is multimodality truly the path forward in AI evolution? Get ready to ponder as we not only unravel the enigma of IDEFICS but also explore the very future of AI itself. 🤖🔮
+
+🔔 Don't miss this chance to broaden your horizons and witness the next big leap in AI technology. Click now to embark on a journey that might just reshape your perception of what's possible. Your future in AI begins now. 🌐🚀
+
+
+<iframe width="630" height="330" src="https://www.youtube.com/embed/ZiMVfr-rQDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> Resources: [Notebook](res/llmsrelated/004-idefics/notes.ipynb){ .md-button }
