@@ -13,6 +13,7 @@ Here are the videos available in the playlist
 |Deploy Local LLM like a ChatGPT Chatbot|[Link](https://youtu.be/JYT1YDfALiw?si=KBhdsrlXsY33Uv27)|
 |DPO Implementation|[Link](https://youtu.be/P1ji_HlNQ-s?si=rFhEgRE3Rtf-gVb6)|
 |Idefics Image Captioner|[Link](https://youtu.be/ZiMVfr-rQDI)
+|CodeLlama Finetuning and CPU Inferencing|[Link](https://youtu.be/nNbkd2098Z0)
 
 ---
 ## 1. Finetune Llama2 using QLoRA
@@ -93,3 +94,20 @@ Here's the million-dollar question: Is multimodality truly the path forward in A
 <iframe width="630" height="330" src="https://www.youtube.com/embed/ZiMVfr-rQDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > Resources: [Notebook](res/llmsrelated/004-idefics/notes.ipynb){ .md-button }
+
+## 5. CodeLlama Finetuning and CPU Inferencing
+
+🚀 Ready to take your coding game to new heights? 🔥 Join me in this thrilling tutorial where we unravel the secrets of finetuning the state-of-the-art coding model, Codellama, using Google Colab's free version! 🖥️💡
+
+🔍 Dive deep into the art of refining Codellama with the power of QLoRA in this step-by-step guide. 🎨✨ Learn how to masterfully fine-tune Codellama using QLoRA, while making the most of the free resources in Google Colab. 💻📈
+
+And the excitement doesn't stop there! 🌟 As a special treat, I'll walk you through the exhilarating process of performing CPU inference for Llama 7b using GGUF. 🦙💨💼 Watch the magic unfold as we showcase the potential of your local CPU through a Gradio Chat Interface. 🎉🤖
+
+💯 Elevate your coding skills without breaking a sweat! Whether you're a novice or a coding maestro, this video is your golden opportunity. 🎟️🔑 Let's conquer Codellama together, revolutionizing your coding experience one step at a time! 🌐📝
+
+🔔 Don't miss out! Remember to like, subscribe, and ring the notification bell to stay updated on the latest coding hacks and tech tutorials! 🛎️🔗 Get ready to embark on this coding journey with us. See you in the video! 🚀👨‍💻👩‍💻
+
+
+<iframe width="630" height="330" src="https://www.youtube.com/embed/ZiMVfr-rQDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> Resources: [Finetune NB](res/llmsrelated/005-codellama/Finetune_CodeLLamA_with_inference.ipynb){ .md-button } [CPU Inference NB](res/llmsrelated/005-codellama/app.ipynb){ .md-button }

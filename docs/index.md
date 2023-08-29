@@ -13,8 +13,8 @@ Currently there are five playlists in Channel. They are:
 |Playlist|Number of Videos|Status|
 |--------|----------------|------|
 |NLP Research Papers|4|Ongoing|
-|LLMs Related|4|Ongoing|
-|NLP Projectsv|4|Ongoing|
+|LLMs Related|5|Ongoing|
+|NLP Projects|4|Ongoing|
 |ML Bootcamp|7|Completed|
 |Transformer Embeddings|3|Completed|
 
@@ -48,7 +48,8 @@ Following are the videos available in the playlists right now
 - **Finetune Llama2** under 50 lines in Google Colab using QLoRA
 - **Deploy Local LLM** Like a ChatGPT Chatbot
 - **DPO** Paper Implementation
-- **IDEFICS** Image Captioner - Next Video
+- **IDEFICS** Image Captioner
+- **CodeLlama** Finetuning and CPU Inferencing
 > Playlist Page Link: [Playlist Page](llmsrelated.md){ .md-button }
 
 ---
