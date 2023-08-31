@@ -19,7 +19,7 @@ Here are the videos available in the playlist
 ## 1. Finetune Llama2 using QLoRA
 
 
-🚀 zLLM Model Finetuning in Minutes: Hands-On Guide with Llama2 - 7b!
+🚀 LLM Model Finetuning in Minutes: Hands-On Guide with Llama2 - 7b!
 
 📹 Unlock the secrets of custom dataset finetuning with the recently launched Llama2 - 7b parameters model from Meta AI. Join us in this video tutorial as we navigate through the process using just 50 lines of code, all within the convenience of Google Colab's free environment.
 
@@ -111,3 +111,27 @@ And the excitement doesn't stop there! 🌟 As a special treat, I'll walk you th
 <iframe width="630" height="330" src="https://www.youtube.com/embed/ZiMVfr-rQDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > Resources: [Finetune NB](res/llmsrelated/005-codellama/Finetune_CodeLLamA_with_inference.ipynb){ .md-button } [CPU Inference NB](res/llmsrelated/005-codellama/app.ipynb){ .md-button }
+
+## 6. Evaluation of LLMs Is All You Need
+
+🔍 **Unlocking the Unseen:** Delve into the world of LLM evaluation, a facet often underestimated yet holding the power to transform your model's prowess! 💎
+
+🔢 **Crucial Queries Explored:**
+
+- **Why Evaluate LLMs?** Discover the critical need for evaluation in maximizing model potential. Uncover why this step is a cornerstone of success, and how it can take your model from good to extraordinary.
+
+- **What to Evaluate?** Explore the multifaceted approach to evaluation. Understand the dimensions that demand attention – from coherence to context handling – and how they collectively shape model effectiveness.
+
+- **Where to Evaluate From?** Learn about the datasets that fuel evaluation. Explore the diverse sources required to gauge the model's performance across various aspects addressed in the 'What' section.
+
+- **How to Execute Evaluation?** Unveil the strategies and techniques to conduct effective evaluation. From methodologies to metrics, this section provides the roadmap to assessing and enhancing model powers
+
+🚀 **Elevate Your Model:** Elevating your model's performance is just a click away! Through comprehensive evaluation, you can turn setbacks into triumphs, failures into stepping stones towards success. 📈 This video is your complete A-to-Z guide, providing insights that can reshape your approach to LLMs.
+
+🎥 **Embrace Transformation:** Ready to unlock the full potential of LLM evaluation? Click the link below to watch the video and gain insights that can reshape your approach to LLMs.
+
+
+
+<iframe width="630" height="330" src="https://www.youtube.com/embed/DiV2HmUNhRw?si=jaAlAHWmCQrCBmGv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> Resources: [Eval Page](llm_eval.md){ .md-button }
