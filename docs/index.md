@@ -13,7 +13,7 @@ Currently there are five playlists in Channel. They are:
 |Playlist|Number of Videos|Status|
 |--------|----------------|------|
 |NLP Research Papers|4|Ongoing|
-|LLMs Related|5|Ongoing|
+|LLMs Related|6|Ongoing|
 |NLP Projects|4|Ongoing|
 |ML Bootcamp|7|Completed|
 |Transformer Embeddings|3|Completed|

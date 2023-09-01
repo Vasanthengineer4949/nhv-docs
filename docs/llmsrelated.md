@@ -14,10 +14,11 @@ Here are the videos available in the playlist
 |DPO Implementation|[Link](https://youtu.be/P1ji_HlNQ-s?si=rFhEgRE3Rtf-gVb6)|
 |Idefics Image Captioner|[Link](https://youtu.be/ZiMVfr-rQDI)
 |CodeLlama Finetuning and CPU Inferencing|[Link](https://youtu.be/nNbkd2098Z0)
+|Evaluation of LLMs Is All You Need|[Link](https://youtu.be/nNbkd2098Z0)
 
 ---
-## 1. Finetune Llama2 using QLoRA
 
+## 1. Finetune Llama2 using QLoRA
 
 🚀 LLM Model Finetuning in Minutes: Hands-On Guide with Llama2 - 7b!
 
@@ -26,7 +27,6 @@ Here are the videos available in the playlist
 💡 Brace yourself for an exciting journey! Learn how to harness the power of QLoRA to quantize the model down to 4-bit precision. From there, we'll dive into the heart of the tutorial – finetuning the Llama2 - 7b model on your very own custom dataset.
 
 ⚙️ In a matter of minutes, you'll gain hands-on experience, enabling you to unlock the true potential of this cutting-edge model. Don't miss out on this incredible opportunity to elevate your AI skills. Hit play now and revolutionize your understanding of model customization in just a few simple steps. 🌈🤖
-
 
 
 <iframe width="630" height="330" src="https://www.youtube.com/embed/DiV2HmUNhRw?si=jaAlAHWmCQrCBmGv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

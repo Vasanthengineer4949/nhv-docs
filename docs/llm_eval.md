@@ -21,7 +21,7 @@
 - Model evaluation is the process of analyzing the performance of the model with the help of some metrics
 - Evaluating an LLM performance involves assessing factors such as language fluency, coherence, contextual understanding, factual accuracy, and ability to generate relevant and meaningful responses.
 
-## What is a good evaluation:
+## What is a good evaluation?
 
 - **Correlated with outcomes:** Appropriate metrics used for appropriate models
 - **Very less number of metrics, in an ideal world single metric:** Easy to track and monitor and make a judgement accordingly
@@ -87,6 +87,146 @@ With better evaluations it can provide better guidance for human-LLMs interactio
 LLMs have a broad applicability and are used in various sectors even in some sectors which may require safety and reliability like some financial or healthcare institutions. So it is important to ensure the safety and reliability of the model
 
 Thus it is important to have evaluation as one of the most important discipline in the LLM building pipeline
+
+## What to evaluate
+
+Once we find the answer to the question we can claim the strengths and weaknesses of LLMs. the answer to the question is the different tasks which are there to evaluate against the model. Here are the broad categories in which there are the tasks against which the model to be evaluated.
+
+- Natural Language Processing
+- Robustness, Ethics, Bias and Trustworthiness
+- Social Science
+- STEM
+- Applications
+
+### Natural Language Processing Tasks
+
+The main objective behind the development of LLMs was to get enhanced performance in NLP tasks be it understanding or generation
+
+#### Natural Language Understanding
+
+It represents wide range of tasks that aims at model having a better understanding of the input provided. Here are the tasks which comes under the umbrella of NLU
+
+##### Sentiment Analysis
+
+Sentiment analysis involves analyzing and interpreting the emotion in text. Typically it is binary or triple. LLMS have shown great performance overall but with low resourced language it wasnt able to perform as expected
+
+##### Text Classification
+
+Though it is as similar as sentiment analysis, it just not focuses on the sentiment it also includes all the processing and different aspects of the text. Again as provided in sentiment analysis the inference holds here as well with great performance but there are some future work to be done with low resourced languages
+
+##### Natural Language Inference
+
+It is a task of determnining whether the given hypothesis logically follows the given context known as the premise. ChatGPT outperforms others in handling factual input. It is possible due to RLHF training process which helps in favoring to human preferences. But usally LLMS have poorly in case of NLI tasks and there are large improvements needed in this field
+
+##### Semantic Understanding
+
+It refers to understanding of the language and the concepts associated. It involves the interpretation and comprehension of words, phrases, sentences and the relationship between them thus processing goes beyond the surface level and understanding the underlying meaning and intent. In individual events LLMs possess a great understanding but with multiple events the performance among events has been subpar. With evaluating against basic phrases the LLMs perform poorly. So in general LLMs semantic understanding performance is poor with lot of room for improvment
+
+
+#### Reasoning
+
+Reasoning intuitively if we see also involves semantic understanding which has been a significant challenge for models. To effectively handle reasoning tasks the model not only needs to understand the provided information but also utitlixe reasoning based on the understood information. The evaluation can be broadly categorized into mathematical reasoning, commonsense reasoning, logical and domain-specific reasoning. 
+
+Under these categories overall performance has been satisfactory but with high complexity in mathematical or logical reasoning the model performance has been subpar. Models have shown  good performance with commonsense reasoning but with domain specific reasoning there are lots of room for improvement. So in general reasoning capabilities of model needs to improve a lot
+
+#### Natural Language Generation
+
+It evaluates the capabilities of LLMs in generating specific texts which consists of several tasks including summarization, dialogue generation, machine translation, QA and open ended generation applications
+
+##### Summarization
+
+It is one of the most popular tasks going right now which aims to learn a concise abstract for the given input sentences. In controllable text summarization LLMs have been more extractive compared to human summaries. On general summarization has been having a general performance in summarization tasks and there are requirements for further improvement
+
+##### Dialogue
+
+Evaluating the performance of LLMs on dialogue tasks is crucial to the develoipment of dialogue system which acts as the interface for human LLM interaction. On general with good NLU capabilites it has given some good performance but here are some of the challenges for the models in which the models tend to make errors usually: long-term multi-turn conversational dependency, fundamental reasoning failure and hallucination
+
+##### Translation
+
+LLMs are explicitly not trained for translation task but still they have shown great performance for translation tasks. On an overall factor LLMs have performed translation very well with a scenario like X -> Eng with English being the target language but in the vice versa scenario it has not performed very well and with low resourced languages it has been more worse
+
+##### Question Answering
+
+QA is a crucial technology in acting as an interface for human-LLM interaction and it has been found useful in many scenarios like search engines, intelligent customer services, QA systems and may more. Overall LLMs have been nearly flawless with the performance on QA tasks but there are potential improvement in answering questions based on social, event and commonsense knowledge
+
+##### Open Ended Generation tasks
+
+There are different generation tasks other than the tasks discussed above in which there are tasks like sentence style transfer, variety of writing tasks such as informative, professional, creative and many more. In general LLMs have shown great proficiency in their writing capabilities
+
+##### Multilingual Tasks
+
+LLMs generally have performed poorly when it comes to non-Latin languages like Indic languages and even worse with languages with limited resources. So there is a huge room of improvement for LLMs with multilingual tasks
+
+##### Factuality
+
+Factuality in the context of LLMs refers to the extent to which the text generated by the model align with real world truths and verifiable facts. Thus evaluating factuality is of great importance in order to trust the model and use it. For a model to be factual it should not generate misleading or false information also known as factual hallucination. To evaluate the model on this aspect TruthfulQA can be used as a benchmark whcih is designed to cause models to make mistakes in providing factual answers. the findings implicate that increasing sizes does not make the model truthful for which there is a improvement needed
+
+### Robustness, Ethic, Bias and Trustworthiness
+
+Some of the crucial aspects of evaluation of LLMs includes robustness, ethics, bias and trustworthiness all checking its personal characteristics under circumstances
+
+#### Robustness
+
+Robustness studies the stability of the model when facing unexpected inputs such as adversarial prompts and OOD. For evaluating on this aspect there are different benchmarks like AdvGLUE, PromptBench and many more. On an overall aspect the model is said to be prompt sensitive and model generally tends to exhibit subpar performance with adversarial prompts
+
+#### Ethics and Bias
+
+LLMs have been found to internailize, spread and potentially magnify harmful information existing in the open domain corpus in which it was pretrained on thus exhibiting some bias and its own ethics. When role playing was introduced to the model it caused biased toxicity to some specific entitites upto 6x. Also LLMs were found to have moral biases and cultural values. All these might result in serious risk after deployment of LLMs into the society
+
+#### Trustworthiness
+
+A model is said to be evaluated for its trustworthiness in the following eight aspects: 
+
+- toxicity
+- stereotype bias
+- adversarial robustness
+- OOD robustness
+- adversarial demonstration robustness
+- privacy
+- machine ethics
+- fairness
+
+To deploy a model into a real world scenario it is important for the model to be trustworthy
+
+### Social Science
+
+Social science involves the study of human society and the individual behaviours also including some subjects like economics, sociology, political science, law. Evaluating the performance of of LLMs in social science is important to know its social problem solving ability and applicability of knowledge to such problems. Overall LLMs has benefitted individuals in addressing social science related tasks improving productivity
+
+### STEM - Science, Technology, Engineering and Mathematics
+
+Evaluation of models in STEM can help in various aspects like personal education, research, etc... to increase productivity. 
+
+#### Math
+
+In mathematics with simple arithmetic tasks it has performed very well but with tasks like trigonometry, logarithm the performance has been subpar finding it challenging. It has been competent handling fractions, decimal numbers, negative and irrational numbers as well but has failed poorly with lengthy complex and challenging mathematical equations and problems. In general the effectivenss of LLMs is highly influenced by the complexity of the problem
+
+#### Science
+
+In science it has provided some commendable performance with biology and general simple science related tasks but there are improvments needed with chemisty and physics related tasks especially in physics since the model performs worse in physics than in chemistry problems. Thus improvement is needed in this field
+
+#### Engineering
+
+In the order of difficulty the tasks can be ordered as code generation, software engineering and commonsense planning where in the code generation and software engineering aspect LLMs outperform SOTA outputs and even human outputs but improvements are needed in common sense planning showing there is need for improvement in complex engineering tasks
+
+### Application
+
+#### Agent Application
+
+Instead of just using LLMs on general language tasks LLMs have been equipped with tools lately to expand the capabilites of LLM like ToolLM a comprehensive framework to equip llms with tool use capabilites and there are some other models like KOSMOS-1 for general patterns understanding, TALM again for utilization of tools, Toolformer for optimal use of specific APIs and so on and so forth.
+
+#### Search and Recommendation
+
+Assessment of LLMS in search and recommendation is broadly categoried into two areas where firstly in information retrieval LLMs have outperformed SOTA models right now and people find it easy and less time consuming to search in ChatGPT than in Google search.
+
+With enormous NLP capabilites LLMs have proven to be a way to build recommendation systems comprehending user preferences, item descriptions and any type of contextual informations. But there have been scenarios of unfair recommendations from LLMs like ChatGPT which emphasizes the importance of evaluation of fairness in recommendation
+
+#### Personality Testing
+
+It measures the personality traits and behavioral tendencies of LLMs applied in wide range ofg tasks showing that LLMs can perform like humans but still there are limitations in current model to effectively understand and generate humour
+
+#### Specific applications
+
+LLMs have been said to have a broad applicability but when they are applied on tasks like log parsing, game designing it showed some limitations with the tasks but with potential to improve
 
 ## Where to evaluate
 
