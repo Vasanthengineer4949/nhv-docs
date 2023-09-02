@@ -108,7 +108,7 @@ And the excitement doesn't stop there! 🌟 As a special treat, I'll walk you th
 🔔 Don't miss out! Remember to like, subscribe, and ring the notification bell to stay updated on the latest coding hacks and tech tutorials! 🛎️🔗 Get ready to embark on this coding journey with us. See you in the video! 🚀👨‍💻👩‍💻
 
 
-<iframe width="630" height="330" src="https://www.youtube.com/embed/ZiMVfr-rQDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="630" height="330" src="https://www.youtube.com/embed/nNbkd2098Z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > Resources: [Finetune NB](res/llmsrelated/005-codellama/Finetune_CodeLLamA_with_inference.ipynb){ .md-button } [CPU Inference NB](res/llmsrelated/005-codellama/app.ipynb){ .md-button }
 
