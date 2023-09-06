@@ -14,7 +14,7 @@ Here are the videos available in the playlist
 |DPO Implementation|[Link](https://youtu.be/P1ji_HlNQ-s?si=rFhEgRE3Rtf-gVb6)|
 |Idefics Image Captioner|[Link](https://youtu.be/ZiMVfr-rQDI)
 |CodeLlama Finetuning and CPU Inferencing|[Link](https://youtu.be/nNbkd2098Z0)
-|Evaluation of LLMs Is All You Need|[Link](https://youtu.be/nNbkd2098Z0)
+|Evaluation of LLMs Is All You Need|[Link](https://youtu.be/hxwa8aPmpow)
 
 ---
 
@@ -132,6 +132,6 @@ And the excitement doesn't stop there! 🌟 As a special treat, I'll walk you th
 
 
 
-<iframe width="630" height="330" src="https://www.youtube.com/embed/DiV2HmUNhRw?si=jaAlAHWmCQrCBmGv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="630" height="330" src="https://www.youtube.com/embed/hxwa8aPmpow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > Resources: [Eval Page](llm_eval.md){ .md-button }
